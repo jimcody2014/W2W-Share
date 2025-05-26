@@ -118,10 +118,10 @@ YEAR,MONTH,EMPLOYEE_ID,CUSTOMER_ID,CUST_COUNTRY,CUSTOMER_NAME,PRODUCT_ID,PRODUCT
 2028,Aug,6,QUEDE,Brazil,Bernardo Batista,44,Gula Malacca,Really Best Shipper,15.5,27,0,0.1,24,372
 2028,Aug,6,QUEDE,Brazil,Bernardo Batista,51,Manjimup Dried Apples,Really Best Shipper,42.4,20,0,0.1,2,84.8
 2028,Aug,1,TRADH,Brazil,Anabela Domingues,20,Sir Rodney's Marmalade,Really Best Shipper,64.8,40,0,0,20,1296
-2028,Aug,1,TORTU,Mexico,Miguel Angel Paolino,18,Carnarvon Tigers,Grandma Kelly Shipping,50,42,0,0,12,600
-2028,Aug,1,TORTU,Mexico,Miguel Angel Paolino,24,Guarane Fantestica,Grandma Kelly Shipping,3.6,20,0,0,10,36
-2028,Aug,1,TORTU,Mexico,Miguel Angel Paolino,63,Vegie-spread,Grandma Kelly Shipping,35.1,24,0,0,5,175.5
-2028,Aug,1,TORTU,Mexico,Miguel Angel Paolino,75,Rhenbreu Klosterbier,Grandma Kelly Shipping,6.2,125,0,0,6,37.2
+2028,Aug,1,TORTU,Mexico,Miguel Angel Paolino,18,Carnarvon Tigers,Grandma Kelly Shipping,,42,0,0,12,600
+2028,Aug,1,TORTU,Mexico,Miguel Angel Paolino,24,Guarane Fantestica,Grandma Kelly Shipping,,20,0,0,10,36
+2028,Aug,1,TORTU,Mexico,Miguel Angel Paolino,63,Vegie-spread,Grandma Kelly Shipping,,24,0,0,5,175.5
+2028,Aug,1,TORTU,Mexico,Miguel Angel Paolino,75,Rhenbreu Klosterbier,Grandma Kelly Shipping,,125,0,0,6,37.2
 2028,Aug,4,RATTC,USA,Paula Wilson,1,Chai,Really Best Shipper,14.4,39,0,0,18,259.2
 2028,Aug,4,RATTC,USA,Paula Wilson,17,Alice Mutton,Really Best Shipper,31.2,0,0,0,15,468
 2028,Aug,4,RATTC,USA,Paula Wilson,43,Ipoh Coffee,Really Best Shipper,36.8,17,10,0,15,552
@@ -152,12 +152,12 @@ YEAR,MONTH,EMPLOYEE_ID,CUSTOMER_ID,CUST_COUNTRY,CUSTOMER_NAME,PRODUCT_ID,PRODUCT
 2028,Sep,1,TORTU,Mexico,Miguel Angel Paolino,49,Maxilaku,Really Best Shipper,16,10,60,0,30,480
 2028,Sep,1,TORTU,Mexico,Miguel Angel Paolino,59,Raclette Courdavault,Really Best Shipper,44,79,0,0,10,440
 2028,Sep,1,TORTU,Mexico,Miguel Angel Paolino,71,Flotemysost,Really Best Shipper,17.2,26,0,0,2,34.4
-2028,Sep,8,OLDWO,USA,Rene Phillips,18,Carnarvon Tigers,Grandma Kelly Shipping,50,42,0,0.1,25,1250
-2028,Sep,8,OLDWO,USA,Rene Phillips,29,Theringer Rostbratwurst,Grandma Kelly Shipping,99,0,0,0.1,25,2475
-2028,Sep,8,OLDWO,USA,Rene Phillips,39,Chartreuse verte,Grandma Kelly Shipping,14.4,69,0,0.1,30,432
-2028,Sep,1,ROMEY,Spain,Alejandra Camino,30,Nord-Ost Matjeshering,Grandma Kelly Shipping,20.7,10,0,0,10,207
-2028,Sep,1,ROMEY,Spain,Alejandra Camino,53,Perth Pasties,Grandma Kelly Shipping,26.2,0,0,0,10,262
-2028,Sep,1,ROMEY,Spain,Alejandra Camino,54,Tourtiere,Grandma Kelly Shipping,5.9,21,0,0,5,29.5
+2028,Sep,8,OLDWO,USA,Rene Phillips,18,Carnarvon Tigers,Grandma Kelly Shipping,,42,0,0.1,25,1250
+2028,Sep,8,OLDWO,USA,Rene Phillips,29,Theringer Rostbratwurst,Grandma Kelly Shipping,,0,0,0.1,25,2475
+2028,Sep,8,OLDWO,USA,Rene Phillips,39,Chartreuse verte,Grandma Kelly Shipping,,69,0,0.1,30,432
+2028,Sep,1,ROMEY,Spain,Alejandra Camino,30,Nord-Ost Matjeshering,Grandma Kelly Shipping,,10,0,0,10,207
+2028,Sep,1,ROMEY,Spain,Alejandra Camino,53,Perth Pasties,Grandma Kelly Shipping,,0,0,0,10,262
+2028,Sep,1,ROMEY,Spain,Alejandra Camino,54,Tourtiere,Grandma Kelly Shipping,,21,0,0,5,29.5
 2028,Sep,2,LONEP,USA,Fran Wilson,62,Tarte au sucre,Really Best Shipper,39.4,17,0,0,10,394
 2028,Sep,2,LONEP,USA,Fran Wilson,68,Scottish Longbreads,Really Best Shipper,10,6,10,0,3,30
 2028,Sep,7,ANATR,Mexico,Ana Trujillo,69,Gudbrandsdalsost,Grandma Kelly Shipping,28.8,26,0,0,1,28.8
@@ -186,12 +186,12 @@ YEAR,MONTH,EMPLOYEE_ID,CUSTOMER_ID,CUST_COUNTRY,CUSTOMER_NAME,PRODUCT_ID,PRODUCT
 2028,Sep,6,LONEP,USA,Fran Wilson,1,Chai,Best Shipper,14.4,39,0,0,20,288
 2028,Oct,8,ISLAT,UK,Helen Bennett,41,Jack's New England Clam Chowder,Really Best Shipper,7.7,85,0,0,20,154
 2028,Oct,8,ISLAT,UK,Helen Bennett,76,Lakkalikeeri,Really Best Shipper,14.4,57,0,0,6,86.4
-2028,Oct,7,TORTU,Mexico,Miguel Angel Paolino,17,Alice Mutton,Grandma Kelly Shipping,31.2,0,0,0,8,249.6
-2028,Oct,7,TORTU,Mexico,Miguel Angel Paolino,28,Ressle Sauerkraut,Grandma Kelly Shipping,36.4,26,0,0,14,509.6
-2028,Oct,7,TORTU,Mexico,Miguel Angel Paolino,76,Lakkalikeeri,Grandma Kelly Shipping,14.4,57,0,0,30,432
-2028,Oct,5,WARTH,Finland,Pirkko Koskitalo,71,Flotemysost,Grandma Kelly Shipping,17.2,26,0,0,30,516
-2028,Oct,3,ISLAT,UK,Helen Bennett,35,Steeleye Stout,Really Best Shipper,14.4,20,0,0,10,144
-2028,Oct,7,PERIC,Mexico,Guillermo Fernendez,52,Filo Mix,Grandma Kelly Shipping,5.6,38,0,0,20,112
+2028,Oct,7,TORTU,Mexico,Miguel Angel Paolino,17,Alice Mutton,Grandma Kelly Shipping,,0,0,0,8,249.6
+2028,Oct,7,TORTU,Mexico,Miguel Angel Paolino,28,Ressle Sauerkraut,Grandma Kelly Shipping,,26,0,0,14,509.6
+2028,Oct,7,TORTU,Mexico,Miguel Angel Paolino,76,Lakkalikeeri,Grandma Kelly Shipping,,57,0,0,30,432
+2028,Oct,5,WARTH,Finland,Pirkko Koskitalo,71,Flotemysost,Grandma Kelly Shipping,,26,0,0,30,516
+2028,Oct,3,ISLAT,UK,Helen Bennett,35,Steeleye Stout,Really Best Shipper,,20,0,0,10,144
+2028,Oct,7,PERIC,Mexico,Guillermo Fernendez,52,Filo Mix,Grandma Kelly Shipping,,38,0,0,20,112
 2028,Oct,4,KOENE,Germany,Philip Cramer,15,Genen Shouyu,Best Shipper,12.4,39,0,0,5,62
 2028,Oct,4,KOENE,Germany,Philip Cramer,25,NuNuCa Nue-Nougat-Creme,Best Shipper,11.2,76,0,0,4,44.8
 2028,Oct,4,KOENE,Germany,Philip Cramer,39,Chartreuse verte,Best Shipper,14.4,69,0,0,4,57.6
